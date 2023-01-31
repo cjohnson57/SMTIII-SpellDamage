@@ -44,7 +44,7 @@ A graph will then be displayed which shows the selected spell's damage as the pl
 In SMTIII, the player's level ranges from 1 to 255, although only up to level 99 is displayed in the menus.
 However, since spell damage no longer changes after 160, the graph stops going past 201 (which was chosen for visual reasons.)
 
-You will notice a sharp linear increase until the peak value is reached, at which point the damage begins a gradual linear decrease,
+You will notice a sharp linear (occasionally slightly parabolic) increase until the peak value is reached, at which point the damage begins a gradual linear decrease,
 before finally resting on a static value at level 160.
 
 ![image](https://user-images.githubusercontent.com/30701749/215744058-461b0678-9408-4382-8cc5-a0a532b8ce7b.png)
